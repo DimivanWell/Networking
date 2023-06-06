@@ -1,4 +1,4 @@
-#Authors: Peter Matti, Dimitri van Well, Audy Saidi
+#Authors: Dimitri van Well
 #Date Last Modified: 11/15/2022
 #Program Status: Running
 #IMPORTANT: Any photo files attempting to be uploaded/inserted has to be in the server and client files directory
