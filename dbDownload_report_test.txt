@@ -1,0 +1,3 @@
+1 kim kim 567 9664 redford Michigan 48239  test-image.jpg 
+2 dim dim 355 novi 
+3 cam cam 987   
